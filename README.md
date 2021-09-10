@@ -1,13 +1,13 @@
 
 ## Hello, I am Pinglin 秉霖 👋
 
-An entrepreneur, a computer vision researcher, a software generalist and a father, who likes to make things organically scale up.
+I am a co-founder and CEO at <a href="https://instill.tech" target="_blank">Instill AI</a>, a startup on a mission to make computer vision highly accessible to everyone.
 
-I am currently the co-founder and CEO at <a href="https://instill.tech" target="_blank">Instill AI</a>, a startup on a mission to make computer vision highly accessible to everyone.
+I think with a normal distribution in mind all the time. While the physical world is made up of the majority (>70%), I expect there are always rare outliers, incidents and odds (<4% or even <0.1%). 
 
-I think with a normal distribution in mind all the time. While the physical world is made up of the majority (>70%), I expect there are always rare outliers, incidents and odds (<4% or even <0.1%). I also enjoy learning anything that can boost my efficiency. If our lifetime has a limit, I will maximise my speed to stretch the distance that I can reach. 
+I enjoy learning new things which can improve my life efficiency. While our lifetime is limited, maximising the speed is the only way to stretch into the farthest distance. 
 
-I like to learn from interesting people and projects. Feel free to reach out to me if anything.
+I like to learn from interesting people and projects. Feel free to reach out to me!
 
 ### Polyglot
 [<img src="https://img.shields.io/badge/Shell-282C34?logo=gnubash" alt="Bash logo" title="Bash" height="25" />](https://www.gnu.org/software/bash)
@@ -52,7 +52,7 @@ I like to learn from interesting people and projects. Feel free to reach out to 
 [<img src="https://img.shields.io/badge/Visual Studio Code-282C34?logo=visualstudio" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />](https://code.visualstudio.com)
 
 ### Coding stats
-I have been actually working with **Python**, **Go**, **YAML** (Kubernetes) and **HCL** (Terraform) in private organisation repositories these days. The public repositories are mostly my PhD works in visual simultaneous location and mapping (Visual SLAM) where highly performant real-time programming using GPU acceleration is required (i.e., CUDA/C++).
+I have been working on **Python**, **Go**, **Kubernetes** and **Terraform** these days. The public repositories are mostly my PhD works in visual simultaneous location and mapping (Visual SLAM) where highly performant real-time programming using GPU acceleration is required (i.e., CUDA/C++).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinglin&layout=compact&langs_count=10&&theme=algolia)
 ](https://github.com/anuraghazra/github-readme-stats)
